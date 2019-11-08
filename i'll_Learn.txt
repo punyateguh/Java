@@ -1,0 +1,62 @@
+Apa itu Java ?
+Cara Kerja Java ?
+Install IDE Eclipse
+Struktur Program Java
+Organisasi Program dengan Package
+Pengenalan Print dan Alur Eksekusi
+Memahami String [] Args
+Variabel, Assigment dan deklarasi
+Tipe Data Fundamental atau Primitive
+Operator Aritmatika
+Konversi Tipe Data Numeric
+Operator Unary (Increment & Decrement)
+Operator Assigment 
+Operator Komparasi
+Operator Logika
+Operator Bitwise
+Mengambil User input (scanner)
+Pengelompokkan operasi Aritmatika
+Latihan Operator Logika
+if else Statement
+if else if statement
+If Nested if
+switch case
+Temary Operator
+Latihan Kalkulator (If Else)
+Latihan Kalkulator (Switch Case)
+While loop
+Do while loop
+For Loop
+Latihan Looping sederhana
+Latihan Looping Deret Fibonacci
+Break, Continued and return (control Flow)
+Looping bersarang
+Pengenalan Fungsi atau Method
+Fungsi atau Method Void
+Latihan fungsi menghitung dan menggambar
+Fungsi Rekrusif (recrusive)
+Rekrusif bercabang
+Overload Method/Fungsi
+Pengertian Array
+Looping Array dengan ForEach
+Pengertian Array Lebih dalam
+Operasi pada Array
+Latihan Array
+Array Multi Dimensi
+Array Multi Dimensi Lebih Dalam
+Latihan Array 2D (Operasi Matrix)
+Pengenalan String
+Operasi String
+String Builder
+Format String
+Mengenal Exception - Try, Catch, and Finally
+Exception pada Method ( rantai Exception )
+Pengenalan I/O Stream, Input File
+Byte Stream (File Input dan Output)
+Character Steam (File Input dan Output)
+Buffered Byte Stream
+Buffered Character Stream
+Scanner dan String Tokenizer
+Project CRUD
+Acces Modifier dan Multi file
+Project CRUD finalisasi dengan multi file

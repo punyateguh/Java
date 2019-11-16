@@ -8,8 +8,13 @@ public class tutorial {
 		
 		Scanner userInput = new Scanner(System.in);
 		
-		int input = userInput.nextInt();
-		System.out.println("Hasil = " + input);
+		System.out.print("panjang = ");
+		int panjang = userInput.nextInt();
+		System.out.print("Lebar = ");
+		int lebar = userInput.nextInt();
+		
+		int hasil = panjang * lebar ;
+		System.out.print("Hasil = " + hasil);
 	}
 
 }
